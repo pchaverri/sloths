@@ -23,7 +23,7 @@ Some of the tables are within Excel tabs.
 
 **Table S10**. Raw eggNOG-mapper results for <i>Bradypus variegatus</i>, all samples combined, from metagenomic data.
 
-**Table S11**. Raw eggNOG-mapper results for <i>Choloepus hoffmanni</i>, all samples combined, from metagenomic data. Use the following link as this file is too large for GitHub: https://bowiestate-my.sharepoint.com/:x:/g/personal/pchaverri_bowiestate_edu/EaiL8hblFw9DiA5xH38ZCB4BVmlFqalgPZC09FeZy-0sfw?e=yFjEDl
+**Table S11**. Raw eggNOG-mapper results for <i>Choloepus hoffmanni</i>, all samples combined, from metagenomic data. Due to the large size of this file, the table has been divided into 9 parts. Parts 1-8 include all classified COGs. Part 9 consists of unclassified COGs.
 
 **Table S12**. Summary of eggNOG-mapper functional annotation for metagenomic data for <i>Choloepus</i> and <i>Bradypus</i>. Only fungi and bacteria are included (from Tables S10 and S11).
 
