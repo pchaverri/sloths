@@ -31,6 +31,4 @@ Some of the tables are within Excel tabs.
 
 **Table S14**. Pivot and interactive tables with data from eggNOG mapper classification from <i>Choloepus</i> RNA pools (Table S13).
 
-
-
-
+In addition, interactive Krona figures in HTML format for Figure 3 are included (Bradypus.html) and (Choloepus.html). These HTML files include all taxa (Prokaryota, Eukaryota and Viruses).
