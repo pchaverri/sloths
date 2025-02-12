@@ -27,8 +27,5 @@ Some of the tables are within Excel tabs.
 
 **Table S12**. Summary of eggNOG-mapper functional annotation for metagenomic data for <i>Choloepus</i> and <i>Bradypus</i>. Only fungi and bacteria are included (from Tables S10 and S11).
 
-**Table S13**. Raw results from eggNOG mapper classification from <i>Choloepus</i> RNA pools.
-
-**Table S14**. Pivot and interactive tables with data from eggNOG mapper classification from <i>Choloepus</i> RNA pools (Table S13).
 
 In addition, **interactive Krona figures in HTML format for Figure 3** are included ([Krona_Bradypus.html](https://github.com/pchaverri/sloths/blob/main/Krona_Bradypus.html)) and ([Krona_Choloepus.html](https://github.com/pchaverri/sloths/blob/main/Krona_Choloepus.html)). These HTML files include all taxa (Prokaryota, Eukaryota and Viruses).
